@@ -1,6 +1,6 @@
 *
  #div1 {
-    width: 320px;
+    width: 1205px;
     height: 50px;
     padding: 10px;
     border: 5px solid gray;
@@ -9,6 +9,6 @@
   }
   
   body {
-    background-color: aqua;
+    background-color: rgb(137, 0, 241);
     border: 2px black;
   }
